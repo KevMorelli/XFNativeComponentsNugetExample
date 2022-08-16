@@ -1,0 +1,14 @@
+.vs
+.DS_Store
+samples/XFSample/XFSample/obj
+samples/XFSample/XFSample/bin
+samples/XFSample/XFSample.Droid/bin
+samples/XFSample/XFSample.Droid/obj
+packages
+.idea
+samples/XFSample/XFSample.iOS/obj
+source/XFNuget.Droid/obj
+source/XFNuget.Forms/bin
+source/XFNuget.Forms/obj
+source/XFNuget.iOS/bin
+source/XFNuget.iOS/obj

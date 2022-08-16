@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <UserSecretsId>5cbeb355-d3ae-4ed8-adef-70a2089bdecd</UserSecretsId>
+        <Title>Test</Title>
+        <PackageId>XFNuget.Forms.Nuget</PackageId>
+        <PackageVersion>1.0.1</PackageVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
+    </ItemGroup>
+    <ItemGroup>
+      <None Remove="Microsoft.Extensions.Configuration.UserSecrets" />
+    </ItemGroup>
+</Project>

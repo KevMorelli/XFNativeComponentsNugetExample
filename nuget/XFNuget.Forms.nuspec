@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+    <metadata>
+
+        <id>XFNuget.Example.Forms</id>
+        <version>1.0.0</version>
+        <title>Xamarin.Forms native components nuget example</title>
+        <authors>Kevin Morelli</authors>
+        <owners></owners>
+        <licenseUrl>https://www.google.com/</licenseUrl>
+        <projectUrl>https://www.google.com/</projectUrl>
+        <iconUrl>https://www.google.com/</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+
+        <description>Xamarin Forms plugin example
+        </description>
+
+        <summary>Xamarin Forms plugin example</summary>
+        <tags>xamarin, forms, xamarin.forms</tags>
+
+        <dependencies>
+
+            <group>
+                <dependency id="Xamarin.Forms" version="5.0.0.2012" />
+            </group>
+
+        </dependencies>
+
+    </metadata>
+
+    <files>
+
+        <!--Net Standard-->
+<!--        <file src="..\source\XFNuget.Forms\bin\Release\netstandard2.0\XFNuget.Forms.dll" target="lib\netstandard2.0\XFNuget.Forms.dll" />-->
+<!--        <file src="..\source\XFNuget.Forms\bin\Release\netstandard2.0\XFNuget.Forms.deps.json" target="lib\netstandard2.0\XFNuget.Forms.deps.json" />-->
+<!--        <file src="..\source\XFNuget.Forms\bin\Release\netstandard2.0\XFNuget.Forms.pdb" target="lib\netstandard2.0\XFNuget.Forms.pdb" />-->
+
+    </files>
+
+</package>
